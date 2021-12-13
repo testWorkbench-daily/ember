@@ -1,0 +1,2 @@
+npm install
+ember build
